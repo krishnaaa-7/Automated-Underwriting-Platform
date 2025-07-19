@@ -1,11 +1,11 @@
 # Automated-Underwriting-Platform
-# 🏠 Automated Underwriting Platform
+
 
 This project is a Google Colab-based prototype of an AI-powered underwriting platform. It automates property risk assessment using document analysis, computer vision, and multimodal AI. It was designed to evaluate property conditions for insurance underwriting decisions.
 
 ---
 
-## 📌 Project Description
+##  Project Description
 
 The platform performs the following key tasks:
 - Extracts key fields from property appraisal reports (PDFs)
@@ -44,14 +44,14 @@ The platform performs the following key tasks:
 
 | Criteria                | Status |
 |-------------------------|--------|
-| Document Analysis       | ✅ Done |
-| Risk Assessment         | ✅ Done |
-| Guideline Compliance    | ✅ Done |
-| Multimodal Processing   | ✅ Done |
+| Document Analysis       |  Done |
+| Risk Assessment         |  Done |
+| Guideline Compliance    |  Done |
+| Multimodal Processing   |  Done |
 
 ---
 
-## 📊 Output Sample
+##  Output Sample
 Underwriting Summary Report
 
 Address: 123 Elm Street
