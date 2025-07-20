@@ -64,5 +64,10 @@ Risk Level: High Risk
 
 Decision: ❌ Rejected
 
-## Developed by: Sreeram Venkata Phani Kiranmai  
+## Sreeram Venkata Phani Kiranmai
+mailid: phanisreeram777@gmail.com
+phone no:9121559288
+resume link:https://docs.google.com/document/d/16JVcxJZPFPDeDS_uN4ZzbGJVMz9pijCj/edit?usp=drive_link&ouid=117858433810242294174&rtpof=true&sd=true
+linkedin:https://www.linkedin.com/in/sreeram-venkata-phani-kiranmai-461856319?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+
 
